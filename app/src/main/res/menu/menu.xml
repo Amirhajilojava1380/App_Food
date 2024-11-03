@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/recipesFragment2" android:title="recipes" android:icon="@drawable/recipes_select"/>
+    <item android:id="@+id/favoriteFragment2" android:title="favorite" android:icon="@drawable/favorite_select"/>
+    <item android:id="@+id/foodJokeFragment2" android:title="foodJoke" android:icon="@drawable/foodjoke_select"/>
+
+
+</menu>
